@@ -7,7 +7,7 @@ title: Home
 
 This is written in **Markdown**.
 
-[Unit 1](Unit1_Harmony.md)\
+[Unit 1](Unit1_Pitch.md)\
 [Unit 2](Unit2_RhythmAndMeter.md)\
 [Unit 3](Unit3_Form.md)\
 [Unit 4](Unit4_TheVoice.md)\
