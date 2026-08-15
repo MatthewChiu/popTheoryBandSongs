@@ -15,4 +15,4 @@ Group 4:\
 Group 5:\
 
 ## Week 3
-Compostion week
+Composition week
