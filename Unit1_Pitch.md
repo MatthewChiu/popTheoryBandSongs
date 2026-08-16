@@ -1,8 +1,8 @@
 # Unit 1: Pitch
 
 ## Week 1
-Group 1: K-Pop Demon Hunters, "Golden" \ 
-Group 2: Jeffrey Osborn, "On the Wings of Love" \
+Group 1: K-Pop Demon Hunters, "Golden"  
+Group 2: Jeffrey Osborn, "On the Wings of Love"  
 Group 3: The Cranberries, "Linger" \
 Group 4: Taylor Swift, "Back to December"
 Group 5: The Beatles, "A Hard Days Night" \
