@@ -16,3 +16,8 @@ Group 5: Taylor Swift, "Back to December"
 
 ## Week 3
 Composition week
+
+## Recommended Readings
+Nobile: Counterpoint in Rock Music: Unpacking the "Melodic-Harmonic Divorce"; Form as Harmony (selections)
+Temperley: The melodic-harmonic 'divorce' in rock
+De Clercq: The Harmonic-Bass Divorce in Rock
