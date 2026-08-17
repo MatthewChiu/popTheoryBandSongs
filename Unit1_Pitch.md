@@ -4,7 +4,7 @@
 Group 1: K-Pop Demon Hunters, "Golden"  
 Group 2: Jeffrey Osborn, "On the Wings of Love"  
 Group 3: The Cranberries, "Linger"  
-Group 4: The Beatles, "A Hard Day's Night"  
+Group 4: Laufey, "From the Start"
 Group 5: Noah Kahan, "Stick Season"
 
 ## Week 2
