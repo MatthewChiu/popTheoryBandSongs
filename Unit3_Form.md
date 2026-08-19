@@ -1,5 +1,3 @@
-# Unit 3: Form
-
 ## Week 7 – Repetition
 `Group 1`: The Beatles, "Here Comes the Sun"  
 `Group 2`: Stella Lefty, "Boston"  

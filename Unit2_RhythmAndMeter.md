@@ -1,5 +1,3 @@
-# Unit 2: Rhythm and Meter
-
 ## Week 4 – Syncopation and Microtiming
 `Group 1`: The Weekend, "Blinding Lights"  
 `Group 2`: Olivia Dean, "Man I Need"  

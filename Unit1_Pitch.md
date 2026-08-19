@@ -1,5 +1,3 @@
-# Unit 1: Pitch
-
 ## Week 1 – Harmony
 `Group 1`: K-Pop Demon Hunters, "Golden"  
 `Group 2`: Jeffrey Osborn, "On the Wings of Love"  
